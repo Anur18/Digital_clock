@@ -1,0 +1,46 @@
+*{
+    margin:0;
+      }
+.container{
+    min-width: 100vw;
+    min-height: 100vh;
+    background: url(ai-wallpaper.jpg);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.main{
+    background-color:black;
+    min-height:fit-content;
+    min-width:270px;
+    border:white double 5px;
+    border-radius: 100px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+  
+    
+
+}
+
+.section{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    min-height:60vh;
+    min-width:60vw;
+    border: double white 10px;
+    background-color: black;
+    border-radius: 50px;
+
+    
+  
+}
+
+ .p{
+    
+     font-family:orbitron;
+     font-size: 2rem;
+     color:#01fbb6;
+ } 
